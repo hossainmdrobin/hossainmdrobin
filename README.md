@@ -10,9 +10,6 @@
 - Backend: Express.js, Node.js, MongoDB
 - Tools: Git, Postman, Vercel
 
-## 📈 GitHub Stats
-![Robin's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=github_dark)
-
 ## 📌 Pinned Projects
 - [Sociomatic](https://github.com/hossainmdrobin/Sociomatic-Client) – A social media automation dashboard
 - [Portfolio](https://fullstack-portfolio-2023.vercel.app) – My personal developer portfolio
