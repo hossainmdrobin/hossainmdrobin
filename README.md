@@ -8,7 +8,7 @@
 ## 🛠️ Tech Stack
 - Frontend: React.js, Next.js, Tailwind CSS
 - Backend: Express.js, Node.js, MongoDB
-- Tools: Git, Docker, Postman, Vercel
+- Tools: Git, Postman, Vercel
 
 ## 📈 GitHub Stats
 ![Robin's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=github_dark)
