@@ -1,6 +1,18 @@
-I am a full stack developer, University Student. I'm learning mearn since 2021.
+# Hi, I'm Robin 👋
 
-<!---
-hossainmdrobin/hossainmdrobin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🎓 BSc in ICT from Comilla University  
+💻 Passionate about Full-Stack Development  
+🚀 Currently building: Sociomatic - A social media management SaaS  
+📫 Reach me: robin@example.com | [LinkedIn](#)  
+
+## 🛠️ Tech Stack
+- Frontend: React.js, Next.js, Tailwind CSS
+- Backend: Express.js, Node.js, MongoDB
+- Tools: Git, Docker, Postman, Vercel
+
+## 📈 GitHub Stats
+![Robin's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=github_dark)
+
+## 📌 Pinned Projects
+- [Sociomatic](https://github.com/your-username/sociomatic) – A social media automation dashboard
+- [Portfolio](https://github.com/your-username/portfolio) – My personal developer portfolio
